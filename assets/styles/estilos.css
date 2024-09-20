@@ -2,3 +2,10 @@
   filter: brightness(25%);
 }
 
+.fonts {
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
